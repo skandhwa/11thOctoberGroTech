@@ -1,7 +1,7 @@
 @sanity
 
 
-Feature: Login Scenarios
+Feature: Login Scenarios with correct user id and password
 
   Scenario Outline: Login to Application with Correct Id and password
     Given User Opens the Application
